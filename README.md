@@ -2,6 +2,7 @@
 ml-git-practice
 Just practicing creating a repository 
 
+Repository sharing, pushing, and pulling
 Niki Bell
 Madeleine Panter
 
