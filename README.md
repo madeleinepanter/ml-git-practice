@@ -3,7 +3,10 @@ ml-git-practice
 Just practicing creating a repository 
 
 Repository sharing, pushing, and pulling
+
 Niki Bell
 Madeleine Panter
 
 We learned how to share a respository and to push and pull changes to github so that our work is synced and we can access from home.
+
+-practicing another push and pull.
